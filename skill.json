@@ -1,0 +1,15 @@
+{
+  "name": "genpark-marching-cubes-isosurface-extractor-skill",
+  "version": "1.0.0",
+  "description": "Marching squares and cubes isosurface extraction engine generating topological contour boundaries from discrete 2D/3D scalar fields.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "marching-cubes",
+    "isosurface",
+    "volume-rendering",
+    "computer-graphics"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
